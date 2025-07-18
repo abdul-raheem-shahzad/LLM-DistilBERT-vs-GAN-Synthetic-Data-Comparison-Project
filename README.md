@@ -7,7 +7,7 @@ This project compares the performance of a Language Model (LLM) trained on origi
 ```
 llm_research/
 ├── project_1_llm_training/          # Original LLM training
-│   ├── data/                        # Original dataset
+│   ├── data/                        # Original dataset # UPDATE (now it is using AirrStorm/DistilBERT-SST2-Yelp (Yelp/SST2))
 │   ├── models/                      # Trained models
 │   ├── train_llm.py                 # LLM training script
 │   ├── evaluate_llm.py              # Evaluation script
