@@ -1,6 +1,4 @@
-"""
-Train GAN to generate synthetic IMDB-like reviews
-"""
+
 
 import torch
 import torch.nn as nn
